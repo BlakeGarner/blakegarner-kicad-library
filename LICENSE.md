@@ -1,3 +1,11 @@
+Many symbols, footprints 3D models have been pulled from alternate
+sources. The licenses and owners for these are listed below.
+
+
+
+
+All other objects are licensed by Blake Garner under CC BY-SA-4.0
+
 Attribution-ShareAlike 4.0 International
 
 =======================================================================
