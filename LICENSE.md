@@ -1,7 +1,8 @@
 Many symbols, footprints 3D models have been pulled from alternate
 sources. The licenses and owners for these are listed below.
 
-
+# Symbols
+ * teensy.dcm / teensy.lib: Ricardo Band, MIT License. Source: https://github.com/XenGi/teensy_library.git
 
 
 All other objects are licensed by Blake Garner under CC BY-SA-4.0
