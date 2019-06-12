@@ -2,6 +2,14 @@
 Some symbols, footprints 3D models have been pulled from alternate
 sources. The licenses and owners for these are listed below.
 
+## Footprints
+  * Teensy_BG
+   * Teensy30_31_32_LC.kicad_mod: Ricardo Band, MIT Licens. Source: https://github.com/XenGi/teensy.pretty
+
+## 3D Models
+  * Teensy_BG
+   * Teensy 3.2: Aron Rubin. Source: https://grabcad.com/library/teensy-3-2-2/details?folder_id=1927909
+
 ## Symbols
   * Teensy
     * teensy.dcm / teensy.lib: Ricardo Band, MIT License. Source: https://github.com/XenGi/teensy_library.git
