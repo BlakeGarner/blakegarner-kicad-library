@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DMMT5401
+D 65V Vce, 100mA IC, Dual PNP/PNP Transistors, SOT-363
+K Transistor PNP/PNP
+F http://www.nxp.com/documents/data_sheet/BC856BS.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP9361
+D 5V Regulated Charge Pmup
+$ENDCMP
+#
+$CMP NSD15-S
+D Menwell NSD15-S
+$ENDCMP
+#
+#End Doc Library
