@@ -1,4 +1,4 @@
-(module BarrierBlock_TE_1x02_P0.375in_6DBL-02-006 (layer F.Cu) (tedit 5D8E067F)
+(module BarrierBlock_TE_1x02_P0.375in_6DBL-02-006 (layer F.Cu) (tedit 5D90E1F7)
   (fp_text reference J1 (at 5.08 1.397) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -27,7 +27,7 @@
   (pad 1 thru_hole circle (at 0 -10.9982) (size 3.556 3.556) (drill 1.778) (layers *.Cu *.Mask))
   (pad 2 thru_hole circle (at 9.525 -10.9982) (size 3.556 3.556) (drill 1.778) (layers *.Cu *.Mask)
     (zone_connect 2))
-  (model ${KIPRJMOD}/blakegarner-kicad-library/kicad-packages3d/Connector_BG/BarrierBlock_TE_1x02_P0.375in_6DBL_02_006.wrl
+  (model ${KIPRJMOD}/blakegarner-kicad-library/kicad-packages3d/Connector_BG/BarrierBlock_TE_1x02_P0.375in_6DBL-02-006.step
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

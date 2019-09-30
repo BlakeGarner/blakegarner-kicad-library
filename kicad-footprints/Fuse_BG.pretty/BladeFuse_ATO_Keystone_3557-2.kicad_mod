@@ -1,4 +1,4 @@
-(module BladeFuse_ATO_Keystone_3557-2 (layer F.Cu) (tedit 5D8E02E1)
+(module BladeFuse_ATO_Keystone_3557-2 (layer F.Cu) (tedit 5D90E4A4)
   (fp_text reference F1 (at 0 0) (layer F.SilkS) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
@@ -17,7 +17,7 @@
   (pad 2 thru_hole oval (at 6.731 1.7018) (size 3.81 2.54) (drill 1.651) (layers *.Cu *.Mask))
   (pad 1 thru_hole oval (at -6.731 -1.7018) (size 3.81 2.54) (drill 1.651) (layers *.Cu *.Mask))
   (pad 2 thru_hole oval (at 6.731 -1.7018) (size 3.81 2.54) (drill 1.651) (layers *.Cu *.Mask))
-  (model "${KIPRJMOD}/blakegarner-kicad-library/kicad-packages3d/Fuse_BG/Keystone PN3557-2 Fuse Holder.wrl"
+  (model ${KIPRJMOD}/blakegarner-kicad-library/kicad-packages3d/Fuse_BG/BladeFuse_ATO_Keystone_3557-2.wrl
     (offset (xyz -0.07000000000000001 -0.28 3.3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
