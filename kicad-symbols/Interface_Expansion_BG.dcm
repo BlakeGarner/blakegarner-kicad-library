@@ -6,4 +6,8 @@ K SPI parallel port expander
 F http://ww1.microchip.com/downloads/en/DeviceDoc/20001952C.pdf
 $ENDCMP
 #
+$CMP PCA9507
+F https://www.nxp.com/docs/en/data-sheet/PCA9507.pdf
+$ENDCMP
+#
 #End Doc Library
