@@ -1,3 +1,15 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ADAFRUIT_MPR12112
+D Adafruit MPR12112 12-Key Capacitive Touch Sensor
+K MPR12112 Capacitive Touch
+F https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/overview
+$ENDCMP
+#
+$CMP Adafruit_HUZZAH32
+D Adafruit HUZZAH32 - Espressif ESP 32 Breakout
+K ESP32 HUZZAH32
+F https://learn.adafruit.com/adafruit-huzzah32-esp32-feather/overview
+$ENDCMP
+#
 #End Doc Library
