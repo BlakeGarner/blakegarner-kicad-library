@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP POLOLU_VL53L1X
+D Pololu VL53L1X Breakout Time-of-Flight Distance Sensor with Voltage Regulator, 400cm Max
+K VL53L1X Time-of-Flight Distance
+F https://www.pololu.com/product/3415
+$ENDCMP
+#
+#End Doc Library
